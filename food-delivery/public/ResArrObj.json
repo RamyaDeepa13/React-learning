@@ -1,0 +1,201 @@
+{
+    "restaurants": [
+      {
+        "name": "Paradise",
+        "address": "Sarojini Devi Rd Paradise Circle, Secunderabad",
+        "contact": 7671951869,
+        "rating": 3.5,
+        "menu": [
+          {
+            "name": "Chicken Biryani",
+            "price": 300,
+            "rating": 4
+          },
+          {
+            "name": "Mutton Biryani",
+            "price": 400,
+            "rating": 4.5
+          },
+          {
+            "name": "Double ka Meetha",
+            "price": 250,
+            "rating": 3
+          },
+          {
+            "name": "kubani ka meetha",
+            "price": 200,
+            "rating": 3.5
+          }
+        ]
+      },
+      {
+        "name": "Pista House",
+        "address": "Kukatpally Housing Board Colony, Kukatpally, Hyderabad",
+        "contact": 9396500786,
+        "rating": 4,
+        "menu": [
+          {
+            "name": "Chicken Dum Biryani",
+            "price": 350,
+            "rating": 4.5
+          },
+          {
+            "name": "Mutton Dum Biryani",
+            "price": 450,
+            "rating": 4
+          },
+          {
+            "name": "Gulab Jamun",
+            "price": 150,
+            "rating": 4
+          },
+          {
+            "name": "Apricot Delight",
+            "price": 250,
+            "rating": 4.5
+          }
+        ]
+      },
+      {
+        "name": "KFC",
+        "address": "Plot No, B1, Karkhana Rd, Vikrampuri Colony, Karkhana, Secunderabad",
+        "contact": 8042754444,
+        "rating":4.5,
+        "menu": [
+          {
+            "name": "New Ultimate Savings Bucket",
+            "price": 700,
+            "rating": 4.5
+          },
+          {
+            "name": "Big 12 - Chicken Bucket",
+            "price": 500,
+            "rating": 4
+          },
+          {
+            "name": "Chicken Burger Buddy Meal",
+            "price": 450,
+            "rating": 4
+          },
+          {
+            "name": "Mixed Chicken Zinger Burger ",
+            "price": 350,
+            "rating": 4.5
+          }
+        ]
+      },
+      {
+        "name": "Pizza Hut",
+        "address": "Gr Flr, Narayana Medical Campus Bldg, near Police Station, Karkhana, Hyderabad",
+        "contact": 18002022022,
+        "rating": 3.5,
+        "menu": [
+          {
+            "name": "1Plus1",
+            "price": 649,
+            "rating": 3.5
+          },
+          {
+            "name": "HUt Treat Box",
+            "price": 799,
+            "rating": 4
+          },
+          {
+            "name": "Tandoori Panner",
+            "price": 539,
+            "rating": 3
+          },
+          {
+            "name": "Veggie Supreme ",
+            "price": 609,
+            "rating": 4.5
+          }
+        ]
+      },
+      {
+        "name": "Cream Stone Ice Cream",
+        "address": "1, Sardar Patel Rd, next to Ashoka Bhopal Chambers, Viman Nagar, Begumpet, Secunderabad",
+        "contact": 9618459000,
+        "rating": 4.5,
+        "menu": [
+          {
+            "name": "Death by Chocolate",
+            "price": 299,
+            "rating": 5
+          },
+          {
+            "name": "Lotus Biscoff",
+            "price": 158,
+            "rating": 4
+          },
+          {
+            "name": "Willi Wonka",
+            "price": 260,
+            "rating": 3.5
+          },
+          {
+            "name": "Strawberry Shake ",
+            "price": 169,
+            "rating": 4
+          }
+        ]
+      },
+      {
+        "name": "Karachi Bakery",
+        "address": "Nampally, Mozzamjahi Market Hyderabad",
+        "contact": 66418506,
+        "rating": 4.5,
+        "menu": [
+          {
+            "name": "Butter Scotch Cake",
+            "price": 700,
+            "rating": 4
+          },
+          {
+            "name": "Chocolate Cake",
+            "price": 998,
+            "rating": 4
+          },
+          {
+            "name": "Paneer Puff",
+            "price": 40,
+            "rating": 3.5
+          },
+          {
+            "name": "Chicken Puff ",
+            "price": 50,
+            "rating": 4
+          }
+        ]
+      },
+      {
+        "name": "Natural Ice cream",
+        "address": "S P Road, Secunderabad",
+        "contact": 6309477451,
+        "rating": 4.2,
+        "menu": [
+          {
+            "name": "Mango Ice-Cream",
+            "price": 299,
+            "rating": 4
+          },
+          {
+            "name": "Tender Coconut",
+            "price": 250,
+            "rating": 4
+          },
+          {
+            "name": "Sitaphal Ice-Cream",
+            "price": 40,
+            "rating": 3.5
+          },
+          {
+            "name": "Chickoo Ice-Cream ",
+            "price": 50,
+            "rating": 4
+          }
+        ]
+      }
+    ]
+  }
+  

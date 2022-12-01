@@ -1,0 +1,23 @@
+.card{
+  margin-left: 20px;
+  display:grid;
+  grid-gap: 20px;
+  grid-template-columns:repeat(auto-fit, 300px);
+}
+
+.item{
+width: 250px;
+border:1px solid;
+box-shadow: 2px 5px;
+text-align: center;
+border-radius: 20px;
+}
+
+.name{
+  font-style: italic;
+  text-shadow: 1px 1px;
+  color: brown;
+}
+.address{
+  font-size: small;
+}
